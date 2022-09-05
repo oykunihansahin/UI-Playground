@@ -1,0 +1,8 @@
+pages\SampleAppPage.class
+stepDefinitions\DynamicTableSteps.class
+stepDefinitions\HomePageSteps.class
+pages\HomePage.class
+stepDefinitions\ProgressBarPageSteps.class
+stepDefinitions\SampleAppPageSteps.class
+pages\ProgressBarPage.class
+pages\DynamicTablePage.class
