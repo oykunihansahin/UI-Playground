@@ -4,7 +4,7 @@ Tech Stack: Java, Cucumber, TestNG, Maven
 
 a) How to run the test locally;
 
-Since 3 scenarios are tested, there are 3 separate features.To test these scenarios separately, the annotation on the feature pages is written in the tags section of the runner. After that, resources-testSuites-Parallel.xml files is opened. With right click, choosing run and the test are runned.
+Since 3 scenarios are tested, there are 3 separate features.To test these scenarios separately, the annotation on the feature pages is written in the tags section of the runner. After that, resources-testSuites-Parallel.xml files is opened. With right click, choosing run and the test are runned.To open the Postman api project, go to the Postman application and import the postman files in json format on github.
 
 b) How to run the test in a CI/CD pipeline
 
