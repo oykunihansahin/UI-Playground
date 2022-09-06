@@ -12,7 +12,7 @@ Going to this url http://localhost:8080/user/oykunihansahin/my-views/view/all/ ,
 
 c) LİNKKK
 
-d)A dashboard can also be created for agile project management. With titles such as to do, in progress, done, companies can manage their projects.
+d)A dashboard can also be created for agile project management. With titles such as to do, in progress, done, companies can manage their projects.I think acceptable report formats can be diversified when adding reports
 
 e-f)In web automation, I primarily chose the sample app scenario because nowadays almost every application is logged in with a username and password and I think it is an area that should definitely be tested. As the second, I chose the dynamic table scenario. Because there is no stability with constantly changing data, it is an area that needs to be tested to reach the right result. Finally, I chose the progress bar scenario.I thought it should be tested because it is an interface component that allows us to show the background progress of synchronous and asynchronous operations to the user and is used in almost every site and application.
 In API automation, I wrote tests using 4 http requests: post, get, put, delete. I chose these tests to check whether the status code returns 200, whether the response time is below a certain time, and whether any element in the response body is returned.
