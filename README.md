@@ -10,7 +10,7 @@ b) How to run the test in a CI/CD pipeline
 
 Going to this url http://localhost:8080/user/oykunihansahin/my-views/view/all/ ,clicking the run button for both tests will be tested in the CI/CD pipeline.Conditions for how tests are run can be arranged.
 
-c) LİNKKK
+c) https://app.calliope.pro/profiles/4468/reports
 
 d)A dashboard can also be created for agile project management. With titles such as to do, in progress, done, companies can manage their projects.I think acceptable report formats can be diversified when adding reports
 
