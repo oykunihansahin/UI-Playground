@@ -8,7 +8,7 @@ Since 3 scenarios are tested, there are 3 separate features.To test these scenar
 
 b) How to run the test in a CI/CD pipeline
 
-Going to this url http://localhost:8080/user/oykunihansahin/my-views/view/all/ ,clicking the run button for both tests will be tested in the CI/CD pipeline.Conditions for how tests are run can be arranged.
+I did the CI/CD automation with Jenkins in my local. I cannot share the link because this service works in my local, not on a server. But I will talk about how I run it on my local.Going to this url http://localhost:8080/user/oykunihansahin/my-views/view/all/ ,clicking the run button for both tests will be tested in the CI/CD pipeline.Conditions for how tests are run can be arranged.
 
 c) https://app.calliope.pro/profiles/4468/reports
 
